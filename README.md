@@ -30,6 +30,5 @@ If you're new to open source, or just looking for a way to get involved, Hacktob
 - Create your own.
   
 
-[hacktoberfest2023](https://hacktoberfest.com/)
-
+[hacktoberfest2023](https://hacktoberfest.com/)\
 [**krishnapatidar458**](https://github.com/krishnapatidar458/)
