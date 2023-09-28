@@ -102,12 +102,12 @@ Please ensure that your code follows the coding guidelines outlined below.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by the terms and conditions of this license.
+This project is licensed under the [GNU License](LICENSE). By contributing to this project, you agree to abide by the terms and conditions of this license.
 
 We look forward to your contributions and hope to build a great e-commerce website together! If you have any questions or need assistance, feel free to reach out to us through the issue tracker.
 
 Happy coding!
 
 
-
-**krishnapatidar458**
+[#Hacktoberfest2023](https://hacktoberfest.com/)\
+[**krishnapatidar458**](https://github.com/krishnapatidar458)
