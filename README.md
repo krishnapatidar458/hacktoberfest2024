@@ -10,7 +10,7 @@ Looking out to contribute with some good quality codes
 Go for it!!!
 
 
-[Check out the Guidelines](https://github.com/krishnapatidar458/hacktober2023/blob/main/CONTRIBUTING.md)  
+[Check out the Guidelines](https://github.com/krishnapatidar458/hacktoberfest2023/blob/main/CONTRIBUTING.md)  
 
 
 Feel Free to edit this README to make it more attractive and informative!
