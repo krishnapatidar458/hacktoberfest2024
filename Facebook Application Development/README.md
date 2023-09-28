@@ -1,6 +1,6 @@
-# Facebook Application Development in PHP
+# Facebook Application in PHP
 
-Welcome to the Facebook Application Development repository! This project aims to create a Facebook-like web application using HTML, CSS, JavaScript, PHP, and a Database Management System (DBMS). We encourage developers of all levels to contribute and help us build an amazing social networking platform.
+Welcome to the Facebook Application repository! This project aims to create a Facebook-like web application using HTML, CSS, JavaScript, PHP, and a Database Management System (DBMS). We encourage developers of all levels to contribute and help us build an amazing social networking platform.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -55,7 +55,7 @@ Here's a brief overview of the project's folder structure:
 - `css/`: Contains CSS stylesheets.
 - `js/`: Contains JavaScript files.
 - `images/`: Store your project images.
-- `includes/`: PHP include files for headers, footers, and other common elements.
+- `includes/`: PHP includes files for headers, footers, and other common elements.
 - `pages/`: PHP files for different pages of the application.
 - `config.php`: Configuration file for your database connection.
 
@@ -90,5 +90,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Thank you for your interest in contributing to the Facebook Application Development project. Let's build something amazing together! 🚀
 
 
-
-**krishnapatidar458**
+[#Hacktoberfest2023](https://hacktoberfest.com/)\
+[**krishnapatidar458**](https://github.com/krishnapatidar458)
