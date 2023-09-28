@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
+
+
 bool isPalindrome(const char *str) {
     int length = strlen(str);
     int i, j;
@@ -10,14 +12,14 @@ bool isPalindrome(const char *str) {
             return false; 
         }
     }
-    return true; /
+    return true;
 }
 
 int main() {
     char input[100];
 
-    printf("Enter a string: ");
-    scanf("%s", input);
+    printf("Enter a string (up to 99 characters): ");
+    scanf("%99s", input);
 
     if (isPalindrome(input)) {
         printf("%s is a palindrome.\n", input);
@@ -27,4 +29,3 @@ int main() {
 
     return 0;
 }
-
