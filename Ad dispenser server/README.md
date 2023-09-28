@@ -80,5 +80,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Thank you for your interest in the Ad dispenser server project. We look forward to your contributions!
 
-[#Hacktoberfest2023](https://hacktoberfest.com/)
+[#Hacktoberfest2023](https://hacktoberfest.com/)\
 [**krishnapatidar458**](https://github.com/krishnapatidar458)
