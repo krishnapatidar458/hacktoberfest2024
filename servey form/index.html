@@ -6,8 +6,70 @@
         <title>Servey Form</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
+        <link rel="stylesheet" href="form.css">
     </head>
     <body>
+        <div class="container">
+            <h1>Survey Form</h1>
+            <p>We value your feedback. Please take a moment to complete this survey.</p>
+            <form>
+                <div class="form-group">
+                   <div>
+                        <label for="firstname">First Name:</label>
+                        <input type="text" id="firstname" name="lastname" required>
+                   </div>
+                
+                   <div>
+                    <label for="lastname">Last Name:</label>
+                    <input type="text" id="lastname" name="lastname" required>
+               </div>
+                </div>
+                
+               <div class="form-group">
+                    <div>
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div>
+                        <label for="age">Age:</label>
+                        <input type="number" id="age" name="age" required>
+                    </div>
+               </div>
+                
+                <label for="feedback">Feedback:</label>
+                <textarea id="feedback" name="feedback" rows="3" required></textarea>
+                
+                <div class="form-group">
+                    <div>
+                        <label for="rating">Rate our service:</label>
+                    <select id="rating" name="rating" required>
+                        <option value="">Select...</option>
+                        <option value="excellent">Excellent</option>
+                        <option value="good">Good</option>
+                        <option value="average">Average</option>
+                        <option value="poor">Poor</option>
+                    </select>
+                    </div>
+                    
+                    <div class="div">
+                        <div class="radio-group">
+                            <label>How did you hear about us?</label>
+                            <div class="radio-elements">
+                                    <input type="radio" id="friend" name="hear-about" value="friend">
+                                <label for="friend">Friends</label>
+                                
+                                <input type="radio" id="website" name="hear-about" value="website">
+                                <label for="website">Website</label>
+                                
+                                <input type="radio" id="social-media" name="hear-about" value="social-media">
+                                <label for="social-media">Social Media</label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <button type="submit">Submit</button>
+            </form>
+        </div>
     </body>
 </html>
