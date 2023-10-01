@@ -121,10 +121,11 @@ The project structure is organized as follows:
 
 ## License
 
-This project is licensed under the [GPL-3.0 License Text](https://www.gnu.org/licenses/gpl-3.0.txt) By contributing to this project, you agree to abide by its terms and conditions.
+This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by its terms and conditions.
 
 Thank you for considering contributing to this project! Your contributions are essential in making this image processing and generation platform a success. If you have any questions or need assistance, please don't hesitate to reach out to us. Happy coding!
 
 
-[![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-%23FF4400)](https://hacktoberfest.com/)\
-[krishnapatidar458](https://github.com/krishnapatidar458/)
+
+
+**krishnapatidar458**
