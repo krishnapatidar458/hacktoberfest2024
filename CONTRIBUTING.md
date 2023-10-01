@@ -1,5 +1,7 @@
 # Welcome to Hacktoberfest 2023
 
+![LOGO](https://miro.medium.com/v2/resize:fit:1400/1*Lz_KFgbak2sUjwjOG9SZ4g.png)
+
 ## Guidelines for Contributing
 
 Welcome to the Hacktoberfest2023 repository! We appreciate your interest in contributing to this project. Before you get started, please take a moment to read and understand these guidelines.
