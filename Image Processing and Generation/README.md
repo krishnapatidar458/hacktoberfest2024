@@ -2,6 +2,21 @@
 
 Welcome to the Image Processing and Generation repository! This project is aimed at creating a versatile image processing and generation platform using HTML, CSS, JavaScript, PHP, and any Database Management System (DBMS) of your choice. We encourage contributors of all skill levels to join us in building a powerful and user-friendly tool.
 
+
+<div align="center">
+
+**Welcome to Hacktoberfest 2023 Contribution Repository!**
+
+Looking to contribute with some high-quality code? You're in the right place!
+
+[Check out the Guidelines](https://github.com/krishnapatidar458/hacktoberfest2023/blob/main/CONTRIBUTING.md)
+
+Feel free to edit this README to make it more attractive and informative!
+
+</div>
+
+![logo](https://github.com/krishnapatidar458/hacktoberfest2023/assets/103871719/47e3a67d-ec2a-4874-8ff2-e164324f1170)
+
 ## Table of Contents
 
 - [About the Project](#about-the-project)
