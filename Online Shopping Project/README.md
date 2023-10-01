@@ -73,11 +73,10 @@ We have adopted a Code of Conduct that we expect all contributors to adhere to. 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). By contributing to this project, you agree to abide by the terms of this license.
+This project is licensed under the [GPL-3.0 License Text](https://www.gnu.org/licenses/gpl-3.0.txt). By contributing to this project, you agree to abide by the terms of this license.
 
 Thank you for your interest in contributing to the Online Shopping Project! We look forward to your contributions and collaboration.
 
 
-
-
-**krishnapatidar458**
+[![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-%23FF4400)](https://hacktoberfest.com/)\
+[krishnapatidar458](https://github.com/krishnapatidar458/)
