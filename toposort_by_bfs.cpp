@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 class Solution
 {
 	public:
@@ -30,13 +29,11 @@ class Solution
                 q.push(v);
             }
         }
-	    return ans;
-	    
+	    return ans;	    
 	}
 };
 int main()
 {
-
     	vector<int> adj[7];
     	adj[2].push_back(1);
     	adj[5].push_back(0);
@@ -49,7 +46,5 @@ int main()
     	vector<int> v=obj.topoSort(7, adj);
     	for(auto it:v)
     	cout<<it<<" ";
-
-
     return 0;
 }
