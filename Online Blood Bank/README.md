@@ -91,8 +91,7 @@ Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) in place to ens
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use and modify the code for your own purposes. However, if you make contributions to this project, your contributions will also be subject to the same license.
+This project is licensed under the [GPL-3.0 License Text](https://www.gnu.org/licenses/gpl-3.0.txt), which means you are free to use and modify the code for your own purposes. However, if you make contributions to this project, your contributions will also be subject to the same license.
 
-
-
-**krishnapatidar458**
+[![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-%23FF4400)](https://hacktoberfest.com/)\
+[krishnapatidar458](https://github.com/krishnapatidar458/)
