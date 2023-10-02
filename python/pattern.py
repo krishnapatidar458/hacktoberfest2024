@@ -1,22 +1,14 @@
-# Python 3.x code to demonstrate star pattern
- 
-# Function to demonstrate printing pattern
 def pypart(n):
-     
-    # outer loop to handle number of rows
-    # n in this case
-    for i in range(0, n):
-     
-        # inner loop to handle number of columns
-        # values changing acc. to outer loop
-        for j in range(0, i+1):
-         
-            # printing stars
-            print("* ",end="")
-      
-        # ending line after each row
-        print("\r")
- 
+    # Loop through each row up to n
+    for i in range(1, n + 1):
+        # Print the star pattern for the current row using string multiplication
+        # i.e., for i=3, it'll print "* * * "
+        print("* " * i)
+
 # Driver Code
-n = 5
+
+# Prompt the user to enter the desired number of rows
+n = int(input("Enter the number of rows: "))
+
+# Call the function to print the pattern for the specified number of rows
 pypart(n)
