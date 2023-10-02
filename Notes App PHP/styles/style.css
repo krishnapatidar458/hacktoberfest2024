@@ -1,0 +1,151 @@
+body{
+    overflow-x: hidden;
+}
+.col-container {
+    display: table; 
+    width: 100%;
+    justify-content: center;
+}
+
+.col {
+    display: table-cell; 
+}
+
+.title-container{
+    background-color: #145b96ce;
+}
+
+.title-container h2{
+    color: white;
+    text-transform: capitalize;
+}
+.content-container{
+    font-size: 1.5em;
+}
+@media (max-width: 768px){
+    .title-container{
+        font-size: 5em !important;
+    }
+    .links a{
+        font-size: xx-large;
+    }
+}
+.links{
+    font-size: 1.3em;
+}
+.links a{
+    color: rgb(247, 246, 207);
+    text-decoration: none;
+}
+
+.links a:hover{
+    text-decoration: none;
+    color: rgb(245, 242, 156);
+}
+
+.note{
+    background-color: #bcdaf37e;
+    min-height: 3em;
+}
+
+/* NEW PAGE STYLES */
+
+.title-newPage a{
+    text-decoration: none;
+    color: rgb(51, 104, 202);
+}
+
+.title-newPage a:hover{
+    text-decoration: none;
+    color: rgb(29, 69, 141);
+}
+.form-container input[type="text"], .form-container textarea{
+
+   font-size:18px;
+   padding:10px 10px 10px 5px;
+   width:40%;
+   border:none;
+   border-bottom:1px solid #757575;
+}
+
+.form-container input[type="text"]:focus, .form-container textarea:focus{
+    outline: none;
+    border-bottom:2px solid #757575;
+}
+
+.form-group label{
+    font-size: 1.5em;
+    color: rgb(51, 104, 202);
+}
+
+/* SELECT NEEDED */
+
+
+
+  input[type=submit]{
+    width: 10%;
+    background-color:  rgb(51, 104, 202);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+
+  }
+
+  input[type=submit]:hover {
+      background-color: rgb(29, 69, 141);
+  }
+
+  input[type=checkbox]{
+      font-size: larger;
+      padding: 7px;
+      display:  inline-block;
+  }
+ 
+  
+  .label-in {
+    font-size: 1.5em;
+    display: inline-block;
+    margin: 10px;
+    color: rgb(51, 104, 202);
+  }
+
+  .chckgroup {
+    font-size: 1.5em;
+    display: block;
+    margin: 10px;
+  }
+
+
+.head {
+    display: inline-block;
+}
+
+.nav-link {
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link:hover{
+    
+    background-color: #E9E3E1;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+}
+
+.titleContainer {
+    border-radius: 5px 10px 0px 0px;
+    border: 2px solid #73AD21;
+    box-sizing: border-box;
+    background-color: #73AD21;
+    height: 50px;
+    padding-top: 5px;
+    padding-right: 2px;
+}
