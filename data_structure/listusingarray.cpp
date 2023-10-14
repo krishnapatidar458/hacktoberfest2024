@@ -154,22 +154,18 @@ int main()
     switch(ch)
     {
     case 1:
-
             l.insertnode(list1);
             break;
 
     case 2:
-
             l.displaynode();
             break;
 
     case 3:
-
             l.lastdeletenode(list1);
             break;
 
     case 4:
-
             int ptr,val;
             cout<<"Enter the node index after which the new node has to be inserted: ";
             cin>>ptr;
@@ -179,22 +175,17 @@ int main()
             break;
 
     case 5:
-
-
             cout<<"Enter the node index after which the node has to be deleted: ";
             cin>>ptr;
             l.delete_after(ptr);
             break;
 
-        case 6:
+     case 6:
                 exit(0);
                 break;
-
     }
-
 }while(ch!=5);
 char c;
 cin>>c;
-
 return 0;
 }
