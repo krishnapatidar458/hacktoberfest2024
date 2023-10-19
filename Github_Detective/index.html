@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DevDetective</title>
+    <link rel="icon" type="image/png" href="./images/apple-touch-icon.png">
+    <link rel="stylesheet" href="styles.css">
+<body>
+    
+    <div     class="wrapper">
+
+        <!-- HEADING AND TOGGLE ICONS -->
+    <div class="heading-icon">
+            <h1 >DevDetective</h1>
+            <div class="moon-icon">
+            <p>DARK</p>
+            <img id="mode-icon" src="./images/moon-icon.svg" alt="">
+            </div>
+
+            <div class = "sun-icon">
+            <p>LIGHT</p>
+            <img id="mode-icon" src="./images/sun-icon.svg" alt="">
+            </div>
+        </div>
+        
+            <div class="search-place">
+
+           <!-- search form -> form-container-->
+           <form class="form-container" data-searchPlace>
+            <i class="fa-thin fa-magnifying-glass" style="color: #5381d0;"></i>
+            <input id = "input" name="user-input" placeholder="Enter a github user name..." data-searchInput  >
+            <button class="btn" type="submit">Search</button>
+        </form>
+
+            </div>
+
+        
+<div class="main-container">
+            <!-- MAIN CARD -->
+        <div class="container">
+
+            <!-- IMAGE/NAME/DATE/LINK/PARA -->
+
+            <div class="container-1">
+                <img data-githubImage src="./images/90249481.png" alt="">
+                <p data-githubName>Shishir</p>
+                <a  data-githubLink href="https://github.com/shishirkj">@Shishirtj</a>
+                <p data-githubPara>. Learning via contributing to open source projects.</p>
+                <p data-githubDate>Joined 07 Sep 2021</p>
+        </div>
+            </div>
+
+
+            <!-- SUB CARD  -->
+            <div class="container-2">
+                <!-- REPO/FOOLOWES/FOLLOWING -->
+               
+                 <div class = "repoDiv">
+                    <p class = "repo" data-Repo >Repos</p>
+                    <p class = "repoNo" data-RepoNo>14</p>
+                 </div>
+                 <div class ="followersDiv" >
+                    <p class = "followers" data-Followers>Followers</p>
+                    <p class = "followersNo"data-FollowersNo>4</p>
+                 </div>
+                 <div class = "followingDiv">
+                    <p class = "following" data-Following>Following</p>
+                    <p class = "followingNo" data-FollowingNo>7</p>
+            </div>
+
+        </div>
+
+            <!-- SUB CARD (FOOTER) -->
+            <div class="container-3">
+                
+                <!-- ADDRESS/WORK/TWITTER/BIO -->
+                <div class = "address">
+                  <img src="./images/location-icon.svg" alt="">
+                    
+                    <p class = "place" data-Place>Bangalore,India</p>
+                </div>
+
+                <div class="bio-link">
+                    <img src="./images/website-icon.svg" alt="">
+                   <a  data-email href="http://gmail.com">skjskjskj333@gmail.com</a>
+                </div>
+               
+                <div class="twitter">
+                    <img src="./images/twitter-icon.svg" alt="">
+                    <a class = "twitterLink" data-twitter href="https://twitter.com/Shishirtj">Shishirtj</a>
+                </div>
+
+                <div class="office">
+                    <img src="./images/company-icon.svg" alt="">
+                    <p class = "officeName" data-company>Not Available</p>
+                </div>
+            </div>
+    </div>
+
+</div>
+<script src="https://kit.fontawesome.com/0786af4cb1.js" crossorigin="anonymous"></script>
+    <script src="script.js"></script>
+</body>
+</html>
