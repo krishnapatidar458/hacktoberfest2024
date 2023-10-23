@@ -15,8 +15,7 @@ for(auto t=(itr->second).begin();t!=(itr->second).end();t++)
 {
 	if(visited[t->first]==false){
 		visited[t->first]=true;
-		q.push(t->first);
-	
+		q.push(t->first);	
 	}
 }
 }
@@ -41,7 +40,6 @@ bool bfsdis(unordered_map<int,unordered_map<int,int>>&mp,int v){
         for(auto t=(itr->second).begin();t!=(itr->second).end();t++)
                 if(t->first==chk)fg2=1;
         if(fg2==0)return false;
-
 }
 return true;
 }
@@ -79,7 +77,6 @@ for(auto itr=mp.begin();itr!=mp.end();itr++){
 	for(auto t=(itr->second).begin();t!=(itr->second).end();t++)
 		cout<<t->first<<" ";
 	cout<<endl;
-
 }
 if(bfsdis(mp,v))cout<<"thier is judje"<<endl;
 else cout<<"no";
