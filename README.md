@@ -1,12 +1,12 @@
 <h1 align="center">
   <img src="https://octodex.github.com/images/original.png" width="40" alt="Octocat" />
-  HacktoberFest 2023
+  HacktoberFest 2024
   <img src="https://octodex.github.com/images/original.png" width="40" alt="Octocat" />
 </h1>
 
 <div align="center">
 
-**Welcome to Hacktoberfest 2023 Contribution Repository!**
+**Welcome to Hacktoberfest 2024 Contribution Repository!**
 
 Looking to contribute with some high-quality code? You're in the right place!
 
@@ -19,7 +19,7 @@ Feel free to edit this README to make it more attractive and informative!
 ![logo](https://github.com/krishnapatidar458/hacktoberfest2023/assets/103871719/47e3a67d-ec2a-4874-8ff2-e164324f1170)
 
 
-# Contributing to Hacktoberfest2023
+# Contributing to Hacktoberfest2024
 
 Hacktoberfest is an annual celebration of open-source contributions. This year, it runs from October 1st to October 31st, and you can be a part of it!
 
@@ -37,7 +37,7 @@ If you're new to open source or an experienced contributor, Hacktoberfest is a f
 
 ## Get Started
 
-Ready to dive in? Explore our [Hacktoberfest Issues](https://github.com/krishnapatidar458/hacktoberfest2023/issues) to find tasks you can work on right away.
+Ready to dive in? Explore our [Hacktoberfest Issues](https://github.com/krishnapatidar458/hacktoberfest2024/issues) to find tasks you can work on right away.
 
 Remember, Hacktoberfest is not just about quantity but also quality contributions. Make a positive impact on the open-source community!
 
